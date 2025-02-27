@@ -39,7 +39,7 @@
 ## Perfil de LinkedIn :
 <br>
 <p align="left">
-  <a href="www.linkedin.com/in/azul-aramburu">
+  <a href="https://www.linkedin.com/in/azul-aramburu/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
